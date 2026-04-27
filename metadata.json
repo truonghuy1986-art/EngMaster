@@ -1,0 +1,6 @@
+{
+  "name": "EngMaster",
+  "description": "An AI-powered English learning application with conversational practice, pronunciation scoring, and grammar feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
